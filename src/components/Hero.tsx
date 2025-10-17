@@ -35,7 +35,7 @@ const Hero = () => {
             className="text-lg px-8 py-6 bg-primary hover:bg-primary/90"
             onClick={() => document.getElementById('best-value')?.scrollIntoView({ behavior: 'smooth' })}
           >
-            Secure My Special Offer!
+            BUY MAGNESIUM BREAKTHROUGH SPECIAL OFFER
           </Button>
           <p className="text-sm text-muted-foreground mt-4 flex items-center justify-center gap-2">
             <Shield className="w-4 h-4" />
