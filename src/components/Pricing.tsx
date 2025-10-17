@@ -122,21 +122,11 @@ const Pricing = () => {
           </div>
         </div>
 
-        <div className="text-center">
-          <p className="text-sm text-muted-foreground mb-4">Secure checkout with:</p>
-          <div className="flex justify-center gap-4 mb-8">
-            <span className="font-bold text-lg">VISA</span>
-            <span className="font-bold text-lg">MASTERCARD</span>
-            <span className="font-bold text-lg">AMEX</span>
-            <span className="font-bold text-lg">PAYPAL</span>
-          </div>
-        </div>
-
-        <div className="bg-card p-8 rounded-xl border-2 max-w-4xl mx-auto">
-          <h3 className="text-2xl font-bold mb-4 text-center text-foreground">
+        <div className="bg-card p-12 rounded-xl border-[6px] border-yellow-500 max-w-4xl mx-auto min-h-[200px] flex flex-col justify-center">
+          <h3 className="text-3xl font-bold mb-6 text-center text-yellow-500">
             Unconditional 365-Day Guarantee
           </h3>
-          <p className="text-center text-muted-foreground">
+          <p className="text-center text-foreground text-lg leading-relaxed">
             If you buy just 1 bottle and are not completely satisfied you save 36 days to request
             a full refund (minus shipping and handling costs). If you are not satisfied, we will
             refund half of the shipping and handling costs).
