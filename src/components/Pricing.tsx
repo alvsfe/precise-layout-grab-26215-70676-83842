@@ -38,7 +38,7 @@ const Pricing = () => {
             </div>
             <Button className="w-full mb-4" size="lg" asChild>
               <a href="https://mr4ii.bemobtrcks.com/click/1?ns=c%3Dda6c1ffe-83de-45be-b5d4-07c3fde6d3b7..l%3D2..a%3D0..b%3D0" target="_blank" rel="noopener noreferrer">
-                BUY ON OFFICIAL SITE
+                BUY MAGNESIUM BREAKTHROUGH SPECIAL OFFER
               </a>
             </Button>
             <img src={paymentLogos} alt="Secure Payment Options" className="w-full max-w-xs mx-auto mb-4" />
@@ -73,7 +73,7 @@ const Pricing = () => {
             </div>
             <Button className="w-full mb-4 bg-primary hover:bg-primary/90" size="lg" asChild>
               <a href="https://mr4ii.bemobtrcks.com/click/1?ns=c%3Dda6c1ffe-83de-45be-b5d4-07c3fde6d3b7..l%3D2..a%3D0..b%3D0" target="_blank" rel="noopener noreferrer">
-                BUY ON OFFICIAL SITE
+                BUY MAGNESIUM BREAKTHROUGH SPECIAL OFFER
               </a>
             </Button>
             <img src={paymentLogos} alt="Secure Payment Options" className="w-full max-w-xs mx-auto mb-4" />
@@ -106,7 +106,7 @@ const Pricing = () => {
             </div>
             <Button className="w-full mb-4" size="lg" asChild>
               <a href="https://mr4ii.bemobtrcks.com/click/1?ns=c%3Dda6c1ffe-83de-45be-b5d4-07c3fde6d3b7..l%3D2..a%3D0..b%3D0" target="_blank" rel="noopener noreferrer">
-                BUY ON OFFICIAL SITE
+                BUY MAGNESIUM BREAKTHROUGH SPECIAL OFFER
               </a>
             </Button>
             <img src={paymentLogos} alt="Secure Payment Options" className="w-full max-w-xs mx-auto mb-4" />
