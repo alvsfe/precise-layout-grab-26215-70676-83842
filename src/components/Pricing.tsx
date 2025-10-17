@@ -27,10 +27,10 @@ const Pricing = () => {
               <p className="text-lg mb-2">Magnesium Breakthrough</p>
               <p className="text-4xl font-bold text-primary mb-2">$35</p>
               <p className="text-2xl font-semibold mb-4">$35 TOTAL</p>
-              <Badge variant="secondary" className="mb-2">
+              <Badge variant="secondary" className="mb-2 text-lg px-4 py-1 bg-yellow-500 text-black font-bold">
                 SUBSCRIBE & SAVE 12%
               </Badge>
-              <p className="text-sm text-muted-foreground mb-2">Subscribe'N Save</p>
+              <p className="text-base font-semibold text-muted-foreground mb-2">Subscribe'N Save</p>
               <div className="flex items-center justify-center gap-2 text-base font-bold text-red-600">
                 <Check className="w-5 h-5" />
                 FREE SHIPPING (US)
@@ -64,8 +64,8 @@ const Pricing = () => {
               <p className="text-4xl font-bold text-primary mb-2">$29</p>
               <p className="text-xl line-through text-muted-foreground mb-1">$175 TOTAL</p>
               <p className="text-3xl font-bold text-primary mb-4">$135 TOTAL</p>
-              <Badge className="mb-2 bg-primary">SUBSCRIBE & SAVE 27%</Badge>
-              <p className="text-sm text-muted-foreground mb-2">Subscribe'N Save</p>
+              <Badge className="mb-2 text-lg px-4 py-1 bg-yellow-500 text-black font-bold">SUBSCRIBE & SAVE 27%</Badge>
+              <p className="text-base font-semibold text-muted-foreground mb-2">Subscribe'N Save</p>
               <div className="flex items-center justify-center gap-2 text-base font-bold text-red-600">
                 <Check className="w-5 h-5" />
                 FREE SHIPPING (US)
@@ -95,10 +95,10 @@ const Pricing = () => {
               <p className="text-lg mb-2">Magnesium Breakthrough</p>
               <p className="text-4xl font-bold text-primary mb-2">$35</p>
               <p className="text-2xl font-semibold mb-4">$87 TOTAL</p>
-              <Badge variant="secondary" className="mb-2">
+              <Badge variant="secondary" className="mb-2 text-lg px-4 py-1 bg-yellow-500 text-black font-bold">
                 SUBSCRIBE & SAVE 27%
               </Badge>
-              <p className="text-sm text-muted-foreground mb-2">Subscribe'N Save</p>
+              <p className="text-base font-semibold text-muted-foreground mb-2">Subscribe'N Save</p>
               <div className="flex items-center justify-center gap-2 text-base font-bold text-red-600">
                 <Check className="w-5 h-5" />
                 FREE SHIPPING (US)
