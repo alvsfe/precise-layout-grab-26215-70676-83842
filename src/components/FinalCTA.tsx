@@ -17,7 +17,7 @@ const FinalCTA = () => {
           className="text-xl px-12 py-8 mb-4 bg-primary hover:bg-primary/90"
           onClick={() => document.getElementById('best-value')?.scrollIntoView({ behavior: 'smooth' })}
         >
-          comprar Magnesium Breakthrougho oferta especial
+          BUY MAGNESIUM BREAKTHROUGH SPECIAL OFFER
         </Button>
         <p className="text-sm text-muted-foreground">
           <Badge variant="secondary">Limited time offer</Badge>
